@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142282596838",
+    "project_id": "ghapshapkaro-da5ff",
+    "storage_bucket": "ghapshapkaro-da5ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142282596838:android:4c061bb04179a50be7f627",
+        "android_client_info": {
+          "package_name": "com.example.ghapshapkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142282596838-gkk3svoc9mjjb10u927sld92c2391qdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzyFDaisK14FnOK492MyM6zUf_nk_aDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142282596838-gkk3svoc9mjjb10u927sld92c2391qdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
